@@ -177,7 +177,7 @@
 </table>
 
 ### Meta's new bugs fixed/confirmed situation
-'Y' stands for 'YES', 'N' stands for 'NO', '\' stands for have been fixed.
+'Y' stands for 'YES', 'N' stands for 'NO', '\ ' stands for have been fixed.
 <table class="tg" style="undefined;table-layout: fixed; width: 1290px">
 <colgroup>
 <col style="width: 192px">

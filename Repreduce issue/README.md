@@ -178,12 +178,12 @@
 
 ### Meta's new bugs fixed/confirmed situation
 'Y' stands for 'YES', 'N' stands for 'NO', '\' stands for have been fixed.
-<table class="tg" style="undefined;table-layout: fixed; width: 1291px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1290px">
 <colgroup>
 <col style="width: 192px">
 <col style="width: 125px">
 <col style="width: 72px">
-<col style="width: 503px">
+<col style="width: 502px">
 <col style="width: 57px">
 <col style="width: 342px">
 </colgroup>
@@ -200,14 +200,14 @@
 <tbody>
   <tr>
     <td class="tg-9wq8" rowspan="2">Tensorflow2.15.0</td>
-    <td class="tg-9wq8">BN</td>
+    <td class="tg-9wq8">BatchNormalize</td>
     <td class="tg-g0ou">IE-IVE</td>
     <td class="tg-g0ou">set epsilon&lt;0.</td>
     <td class="tg-nrix">Y</td>
     <td class="tg-nrix">\</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">BN</td>
+    <td class="tg-9wq8">BatchNormalize</td>
     <td class="tg-g0ou">PE</td>
     <td class="tg-g0ou">Indicating precision error</td>
     <td class="tg-nrix">Y</td>
@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <td class="tg-9wq8">Pytorch2.1.1</td>
-    <td class="tg-9wq8">Conv</td>
+    <td class="tg-9wq8">Convlution</td>
     <td class="tg-g0ou">PE</td>
     <td class="tg-g0ou">Indicating precision error.</td>
     <td class="tg-nrix">N</td>
@@ -223,7 +223,7 @@
   </tr>
   <tr>
     <td class="tg-9wq8" rowspan="2">mindspore-gpu1.10.0</td>
-    <td class="tg-9wq8" rowspan="2">maxpool</td>
+    <td class="tg-9wq8" rowspan="2">MaxPool</td>
     <td class="tg-9wq8">IE-UME</td>
     <td class="tg-9wq8">Triggering condition is set&nbsp;&nbsp;&nbsp;device to CPU, set dataformat to NHWC.</td>
     <td class="tg-nrix">Y</td>
@@ -237,14 +237,14 @@
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="5">MNN2.8.0</td>
-    <td class="tg-nrix">BN</td>
+    <td class="tg-nrix">BatchNormalize</td>
     <td class="tg-nrix">IE-UME</td>
     <td class="tg-nrix">Triggering condition is set epsilon and momentum.</td>
     <td class="tg-nrix">Y</td>
     <td class="tg-nrix">\</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Conv</td>
+    <td class="tg-nrix">Convlution</td>
     <td class="tg-nrix">PE</td>
     <td class="tg-nrix">Indicating precision error.</td>
     <td class="tg-nrix">N</td>
@@ -265,7 +265,7 @@
     <td class="tg-i2ln"><a href="https://github.com/alibaba/MNN/issues/2241">https://github.com/alibaba/MNN/issues/2241</a></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Dconv</td>
+    <td class="tg-nrix">DepthwiseConvlution</td>
     <td class="tg-nrix">PE</td>
     <td class="tg-nrix">Indicating precision error</td>
     <td class="tg-nrix">Y</td>
@@ -274,7 +274,7 @@
 </tbody>
 </table>
 
-### Meta's new bugs fixed/confirmed situation
+### Meta's confirmed old bugs fixed situation
 'Y' stands for 'YES', 'N' stands for 'NO'.
 <table class="tg" style="undefined;table-layout: fixed; width: 850px">
 <colgroup>

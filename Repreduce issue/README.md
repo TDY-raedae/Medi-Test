@@ -177,7 +177,7 @@
 </table>
 
 ### Meta's new bugs fixed/confirmed situation
-'Y' stands for 'YES', 'N' stands for 'NO', '\ ' stands for have been fixed.
+'Y' stands for 'YES', 'N' stands for 'NO', '-' stands for have been fixed.
 <table class="tg" style="undefined;table-layout: fixed; width: 1290px">
 <colgroup>
 <col style="width: 192px">
@@ -204,14 +204,14 @@
     <td class="tg-g0ou">IE-IVE</td>
     <td class="tg-g0ou">set epsilon&lt;0.</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
   <tr>
     <td class="tg-9wq8">BatchNormalize</td>
     <td class="tg-g0ou">PE</td>
     <td class="tg-g0ou">Indicating precision error</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Pytorch2.1.1</td>
@@ -227,13 +227,13 @@
     <td class="tg-9wq8">IE-UME</td>
     <td class="tg-9wq8">Triggering condition is set&nbsp;&nbsp;&nbsp;device to CPU, set dataformat to NHWC.</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
   <tr>
     <td class="tg-nrix">PE</td>
     <td class="tg-nrix">Indicating precision error.</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="5">MNN2.8.0</td>
@@ -241,7 +241,7 @@
     <td class="tg-nrix">IE-UME</td>
     <td class="tg-nrix">Triggering condition is set epsilon and momentum.</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
   <tr>
     <td class="tg-nrix">Convlution</td>
@@ -269,7 +269,7 @@
     <td class="tg-nrix">PE</td>
     <td class="tg-nrix">Indicating precision error</td>
     <td class="tg-nrix">Y</td>
-    <td class="tg-nrix">\</td>
+    <td class="tg-nrix">-</td>
   </tr>
 </tbody>
 </table>

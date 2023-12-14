@@ -6,7 +6,7 @@
 
 [FreeFuzz](https://github.com/ise-uiuc/FreeFuzz/tree/main/data)
 
-##  Meta's bug list and its new bugs fixed/confirmed situation
+##  Meta's bug list and its bugs fixed/confirmed situation
 ### Meta's bug list
 ‘*’ presents error type detected by Meta only.
 <table class="tg">
@@ -287,8 +287,8 @@
   <tr>
     <th class="tg-9wq8">DL&nbsp;&nbsp;&nbsp;library</th>
     <th class="tg-9wq8">Operator</th>
-    <th class="tg-9wq8">fixed</th>
-    <th class="tg-nrix">comfirm Link</th>
+    <th class="tg-9wq8">Fixed</th>
+    <th class="tg-nrix">Comfirmed Link</th>
   </tr>
 </thead>
 <tbody>

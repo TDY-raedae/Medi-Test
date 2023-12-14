@@ -8,7 +8,7 @@
 
 ##  Meta's bug list and its new bugs fixed/confirmed situation
 ### Meta's bug list
-‘*’ Presents error type detected by Meta only.
+‘*’ presents error type detected by Meta only.
 <table class="tg">
 <thead>
   <tr>

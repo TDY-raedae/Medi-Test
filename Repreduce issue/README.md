@@ -12,7 +12,7 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"> Library   </th>
+    <th class="tg-0lax"> DL&nbsp;libray   </th>
     <th class="tg-0lax">Operator   </th>
     <th class="tg-0lax">Error Type   </th>
     <th class="tg-0lax"> Deivce   </th>
@@ -189,12 +189,12 @@
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-9wq8">DL&nbsp;&nbsp;&nbsp;libray</th>
-    <th class="tg-9wq8">operator</th>
+    <th class="tg-9wq8">DL&nbsp;libray</th>
+    <th class="tg-9wq8">Operator</th>
     <th class="tg-9wq8">Error Type</th>
-    <th class="tg-9wq8">triggering condition</th>
-    <th class="tg-nrix">fixed</th>
-    <th class="tg-nrix">confrmed</th>
+    <th class="tg-9wq8">Triggering condition</th>
+    <th class="tg-nrix">Fixed</th>
+    <th class="tg-nrix">Confirmed</th>
   </tr>
 </thead>
 <tbody>
@@ -202,7 +202,7 @@
     <td class="tg-9wq8" rowspan="2">Tensorflow2.15.0</td>
     <td class="tg-9wq8">BatchNormalize</td>
     <td class="tg-g0ou">IE-IVE</td>
-    <td class="tg-g0ou">set epsilon&lt;0.</td>
+    <td class="tg-g0ou">Set epsilon&lt;0.</td>
     <td class="tg-nrix">Y</td>
     <td class="tg-nrix">-</td>
   </tr>
@@ -222,7 +222,7 @@
     <td class="tg-nrix">N</td>
   </tr>
   <tr>
-    <td class="tg-9wq8" rowspan="2">mindspore-gpu1.10.0</td>
+    <td class="tg-9wq8" rowspan="2">Mindspore-gpu1.10.0</td>
     <td class="tg-9wq8" rowspan="2">MaxPool</td>
     <td class="tg-9wq8">IE-UME</td>
     <td class="tg-9wq8">Triggering condition is set&nbsp;&nbsp;&nbsp;device to CPU, set dataformat to NHWC.</td>

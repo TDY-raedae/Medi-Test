@@ -285,7 +285,7 @@
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-9wq8">DL&nbsp;&nbsp;&nbsp;library</th>
+    <th class="tg-9wq8">DL&nbsp;library</th>
     <th class="tg-9wq8">Operator</th>
     <th class="tg-9wq8">Fixed</th>
     <th class="tg-nrix">Comfirmed Link</th>
